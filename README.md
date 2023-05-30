@@ -96,6 +96,6 @@ $ alt+L alt+O
 
 Feito com ❤️ por laylson lopes alencar👋🏽
 
- [![Linkedin Badge](https://www.linkedin.com/in/laylson-lopes-alencar-016916150/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laylson-lopes-alencar-016916150/)](https://www.linkedin.com/in/laylson-lopes-alencar-016916150/) 
 
 
