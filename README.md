@@ -17,7 +17,7 @@
 
 ### Objetivo
 
-Projeto desenvolvido durante o curso de [HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) da plataforma de ensino [Origamid](https://www.origamid.com) com o intuito de colocar em prática os conceitos e boas práticas de desenvolvimento utilizando HTML semântico e CSS.
+Projeto desenvolvido durante o curso de HTML e CSS para Iniciantes da plataforma de ensino com o intuito de colocar em prática os conceitos e boas práticas de desenvolvimento utilizando HTML semântico e CSS.
 
 ---
 
