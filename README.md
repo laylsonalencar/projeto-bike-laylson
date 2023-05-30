@@ -38,8 +38,8 @@ Projeto desenvolvido durante o curso de [HTML e CSS para Iniciantes](https://www
 
 ### Links
 
-- URL da solução: [Repositório Github](https://github.com/gustavomarim/projeto-bikcraft)
-- Link do projeto online: [Github Pages](https://gustavomarim.github.io/projeto-bikcraft/)
+- URL da solução: [Repositório Github](https://github.com/laylsonalencar/projeto-bike-laylson)
+- Link do projeto online: [Github Pages](https://github.com/laylsonalencar/projeto-bike-laylson)
 
 <br>
 
@@ -72,7 +72,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/gustavomarim/projeto-bikcraft.git>
+$ git clone <https://github.com/laylsonalencar/projeto-bike-laylson>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd projeto-bikcraft
@@ -88,14 +88,14 @@ $ alt+L alt+O
 
 ## Autor
 
-<a href="https://github.com/gustavomarim">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66189039?s=400&u=491817b0d3a8d48be60c450631a950c9d49154b2&v=4" width="100px;" alt=""/>
+<a href="https://github.com/laylsonalencar">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/32991646?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gustavo Dantas</b></sub></a> <a href="https://github.com/gustavomarim" title="GitHub">🚀</a>
+ <sub><b>Gustavo Dantas</b></sub></a> <a href="https://github.com/laylsonalencar" title="GitHub">🚀</a>
 
 
-Feito com ❤️ por Gustavo Dantas 👋🏽
+Feito com ❤️ por laylson lopes alencar👋🏽
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodantasmarim/)](https://www.linkedin.com/in/gustavodantasmarim/) 
+ [![Linkedin Badge](https://media.licdn.com/dms/image/C4E03AQF8Kmseqnv11A/profile-displayphoto-shrink_400_400/0/1661289940646?e=1691020800&v=beta&t=kKbRsDvOwxtrkMNtpty0qHjuM8vOs2ngeX2dxLG3g-Y)](https://www.linkedin.com/in/laylson-lopes-alencar-016916150/) 
 
 
