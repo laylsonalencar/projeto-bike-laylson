@@ -91,7 +91,7 @@ $ alt+L alt+O
 <a href="https://github.com/laylsonalencar">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/32991646?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gustavo Dantas</b></sub></a> <a href="https://github.com/laylsonalencar" title="GitHub">🚀</a>
+ <sub><b>laylson lopes alencar</b></sub></a> <a href="https://github.com/laylsonalencar" title="GitHub">🚀</a>
 
 
 Feito com ❤️ por laylson lopes alencar👋🏽
